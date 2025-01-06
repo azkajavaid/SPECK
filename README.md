@@ -1,5 +1,5 @@
 # SPECK
-![alt text](https://academic.oup.com/view-large/figure/409206348/vbad073f1.tif)
+![alt text](SPECK-schematic.png)
 ## Abstract
 The rapid development of single-cell transcriptomics has revolutionized the study of complex tissues. Single-cell RNA-sequencing (scRNA-seq) can 
 profile tens-of-thousands of dissociated cells from a tissue sample, enabling researchers to identify cell types, phenotypes and interactions that 
